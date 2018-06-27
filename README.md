@@ -4,7 +4,7 @@
 Streaming is data processing for unbounded datasets (infinite datasets). Data is in motion.
 
 
-Cloud Pub/Sub connect applications and service through a messaging infrastructure. Pub/Sub is a global messaging queue, essentially a 
+Cloud Pub/Sub connects applications and service through a messaging infrastructure. Pub/Sub is a global messaging queue, essentially a 
 message bus (buffer). Message bus is reliable, has high throughput, and low latency. Pub/Sub is about capturing data and distributing data.
 It is serverless and global.  PubSub can be the source and BigQuery for the sink when streaming events.
 

@@ -18,6 +18,9 @@ Streaming Data Pipelines into Bigtable.  Overview--Use Dataflow to collect traff
 
 
 SOME SUMMARY NOTES
+
+
+
 Streaming is data processing for unbounded datasets (infinite datasets). Data is in motion.
 
 
